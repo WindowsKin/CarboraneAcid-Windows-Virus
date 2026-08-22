@@ -66,5 +66,3 @@ This project is released for **academic and research purposes only**.
 Any malicious or illegal use is strictly prohibited.
 
 ---
-
-*Last updated: 2026*
